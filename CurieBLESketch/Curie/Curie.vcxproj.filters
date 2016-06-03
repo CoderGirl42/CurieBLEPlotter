@@ -15,11 +15,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Curie.ino" />
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="__vm\.Curie.vsarduino.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="CurieBLESketch.ino" />
   </ItemGroup>
 </Project>

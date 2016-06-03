@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\BthLEDef.h(445): warning C4068: unknown pragma
+  BLE.cpp
+BLE.cpp(137): warning C4101: 'u': unreferenced local variable
+BLE.cpp(326): warning C4101: 'EventHandle': unreferenced local variable
+  main.cpp
+  Generating code
+  All 22 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  BLETestCPP.vcxproj -> C:\Users\Marissa\Documents\GitHub\CurieBLEPlotter\x64\Release\CurieBLEPlotter.exe

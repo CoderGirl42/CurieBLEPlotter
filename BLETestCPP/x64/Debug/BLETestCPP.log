@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+c:\program files (x86)\windows kits\8.1\include\um\bthledef.h(445): warning C4068: unknown pragma
+  main.cpp
+  BLE.cpp
+c:\users\marissa\documents\github\curiebleplotter\bletestcpp\ble.cpp(137): warning C4101: 'u': unreferenced local variable
+c:\users\marissa\documents\github\curiebleplotter\bletestcpp\ble.cpp(326): warning C4101: 'EventHandle': unreferenced local variable
+  Generating Code...
+  BLETestCPP.vcxproj -> C:\Users\Marissa\Documents\GitHub\CurieBLEPlotter\x64\Debug\CurieBLEPlotter.exe

@@ -205,13 +205,13 @@ void loop() {
 			yprCharacteristic.setValue((unsigned char*)gyroBytes, 20);
 
 			// Write Accelerometer values to a string and then convert to a byte array.
-			String accString = "";
+			/*String accString = "";
 			accString += Racc[0];
 			accString += ",";
 			accString += Racc[1];
 			accString += ",";
 			accString += Racc[2];
-			accString.toCharArray(accBytes, 20);
+			accString.toCharArray(accBytes, 20);*/
 
 			// Set Accelerometer values and send notification.
 			//accCharacteristic.setValue((unsigned char*)accBytes, 20);
