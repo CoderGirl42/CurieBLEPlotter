@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (BLETestCPP.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+c:\program files (x86)\windows kits\8.1\include\um\bthledef.h(445): warning C4068: unknown pragma
+  main.cpp
+c:\users\marissa\documents\visual studio 2015\projects\bletestcpp\bletestcpp\main.cpp(71): warning C4007: 'main': must be '__cdecl'
+  BLE.cpp
+c:\users\marissa\documents\visual studio 2015\projects\bletestcpp\bletestcpp\ble.cpp(137): warning C4101: 'u': unreferenced local variable
+c:\users\marissa\documents\visual studio 2015\projects\bletestcpp\bletestcpp\ble.cpp(326): warning C4101: 'EventHandle': unreferenced local variable
+  Generating Code...
+  BLETestCPP.vcxproj -> C:\Users\Marissa\Documents\Visual Studio 2015\Projects\BLETestCPP\Debug\BLEPlotterCPP.exe
